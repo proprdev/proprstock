@@ -1,9 +1,0 @@
-Package: com.propr.stockchecker
-Name: Stock Checker
-Architecture: iphoneos-arm
-Description: penis
-Maintainer: propr
-Author: propr
-Section: Utilities
-Version: 0.0.1-109+debug
-Installed-Size: 208
